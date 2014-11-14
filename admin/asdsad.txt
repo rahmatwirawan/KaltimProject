@@ -1,0 +1,154 @@
+<li class="active open">
+							<a href="index.php"><i class="clip-home-3"></i>
+								<span class="title"> Menu 1 </span><span class="selected"></span>
+							</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)"><i class="clip-screen"></i>
+								<span class="title"> Menu 2 </span><i class="icon-arrow"></i>
+								<span class="selected"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="#">
+										<span class="title"> Sub Menu</span>
+										<span class="badge badge-new">new</span>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="#" target="_blank"><i class="clip-cursor"></i>
+								<span class="title">Menu 3 </span><span class="selected"></span>
+							</a>
+						</li>
+						<li>
+							<a href="javascript:void(0)"><i class="clip-cog-2"></i>
+								<span class="title"> UI Lab </span><i class="icon-arrow"></i>
+								<span class="selected"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="ui_elements.html">
+										<span class="title"> Elements </span>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:void(0)"><i class="clip-grid-6"></i>
+								<span class="title"> Tables </span><i class="icon-arrow"></i>
+								<span class="selected"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="table_static.html">
+										<span class="title">Static Tables</span>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:void(0)"><i class="clip-pencil"></i>
+								<span class="title"> Forms </span><i class="icon-arrow"></i>
+								<span class="selected"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="form_elements.html">
+										<span class="title">Form Elements</span>
+									</a>
+								</li>
+								
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:void(0)"><i class="clip-user-2"></i>
+								<span class="title">Login</span><i class="icon-arrow"></i>
+								<span class="selected"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="login_example1.html">
+										<span class="title">Login Form Example 1</span>
+									</a>
+								</li>
+								
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:void(0)"><i class="clip-file"></i>
+								<span class="title">Pages</span><i class="icon-arrow"></i>
+								<span class="selected"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="pages_user_profile.html">
+										<span class="title">User Profile</span>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:void(0)"><i class="clip-attachment-2"></i>
+								<span class="title">Utility</span><i class="icon-arrow"></i>
+								<span class="selected"></span>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="utility_faq.html">
+										<span class="title">Faq</span>
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:;" class="active">
+								<i class="clip-folder"></i>
+								<span class="title"> 3 Level Menu </span>
+								<i class="icon-arrow"></i>
+							</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="javascript:;">
+										Item 1 <i class="icon-arrow"></i>
+									</a>
+									<ul class="sub-menu">
+										<li>
+											<a href="#">
+												Sample Link 1
+											</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a href="javascript:;">
+										Item 1 <i class="icon-arrow"></i>
+									</a>
+									<ul class="sub-menu">
+										<li>
+											<a href="#">
+												Sample Link 1
+											</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a href="#">
+										Item 3
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="maps.html"><i class="clip-location"></i>
+								<span class="title">Maps</span>
+								<span class="selected"></span>
+							</a>
+						</li>
+						<li>
+							<a href="charts.html"><i class="clip-bars"></i>
+								<span class="title">Charts</span>
+								<span class="selected"></span>
+							</a>
+						</li>
